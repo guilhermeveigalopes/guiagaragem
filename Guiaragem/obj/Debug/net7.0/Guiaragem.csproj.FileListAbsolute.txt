@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\bin\Debug\net7.0\Guiaragem.exe
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\bin\Debug\net7.0\Guiaragem.deps.json
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\bin\Debug\net7.0\Guiaragem.runtimeconfig.json
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\bin\Debug\net7.0\Guiaragem.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\bin\Debug\net7.0\Guiaragem.pdb
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\refint\Guiaragem.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.pdb
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\Guiaragem.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\Guiaragem\Guiaragem\obj\Debug\net7.0\ref\Guiaragem.dll
